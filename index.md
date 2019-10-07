@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+   <img src="http://cameronmcefee.com/img/work/the-octocat/original.jpg" alt="Flowers in Chania">
 <style>
-  <img src="http://cameronmcefee.com/img/work/the-octocat/original.jpg" alt="Flowers in Chania">
 .dropdown {
   position: relative;
   display: inline-block;
