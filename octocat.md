@@ -4,8 +4,10 @@
 <br>
 Octocat!
 </details>
-### Don't Lie to yourself ###
+
+# Don't Lie to yourself
 
 __*you got it wrong*__
+
 > ur bad
 
