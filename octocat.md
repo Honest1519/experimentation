@@ -2,7 +2,7 @@
 <details>
 <summary>Who is this?</summary>
 <br>
-[] - C A t
-[] - Octocat
-[] - Forgotten
+- [ ] C A t
+- [ ] Octocat
+- [ ] Forgotten
 </details>
