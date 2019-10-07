@@ -2,7 +2,8 @@
 <details>
 <summary>Who is this?</summary>
 <br>
-- [ ] C A t
-- [ ] Octocat
-- [ ] Forgotten
+Octocat!
 </details>
+### Don't Lie to yourself
+__*you got it wrong*__
+> ur bad
